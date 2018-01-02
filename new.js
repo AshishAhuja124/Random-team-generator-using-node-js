@@ -1,9 +1,9 @@
-var fs=require('fs');
-var prompt=require('prompt');
-var shuffle = require('shuffle-array');
-var range=require('range');
-var array=require('node-array');
-var readline = require('readline');
+let fs=require('fs');
+let prompt=require('prompt');
+let shuffle = require('shuffle-array');
+let range=require('range');
+let array=require('node-array');
+let readline = require('readline');
 
 prompt.start();
 
